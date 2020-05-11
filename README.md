@@ -2,4 +2,4 @@
 
 LINGUAGENS UTILIZADAS =>
 
-JavaScript - Node JS - Firebase - Express JS - Socket IO - Webpack.
+JavaScript - Node JS - Firebase - Express JS - Webpack.
